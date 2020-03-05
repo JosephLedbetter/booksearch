@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,5 @@
     "url": "https://github.com/JosephLedbetter/booksearch/issues"
   },
   "homepage": "https://github.com/JosephLedbetter/booksearch#readme",
-  "description": ""
+  "description": "This setup allows for a Node/Express/React app which can be easily deployed to Heroku."
 }
